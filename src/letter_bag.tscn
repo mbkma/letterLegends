@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bapab0or43esy"]
+
+[ext_resource type="Script" uid="uid://11qnsdgh4vl7" path="res://letter_bag.gd" id="1_r6ca8"]
+
+[node name="LetterBag" type="Node"]
+script = ExtResource("1_r6ca8")
